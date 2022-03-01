@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proper new ballad, being the regrate of a true lover, for his mistriss unkindnesse. To a new tune, I'le ever love the more.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04850</idno>
+            <idno type="STC">Wing P3666C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[574]</idno>
+            <idno type="EEBO-CITATION">99887979</idno>
+            <idno type="PROQUEST">ocm99887979</idno>
+            <idno type="VID">183653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183653)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[444])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proper new ballad, being the regrate of a true lover, for his mistriss unkindnesse. To a new tune, I'le ever love the more.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "... more those groves, dear heart ..."</note>
+                  <note>Includes: Diaphant as words to Caridora upon a disaster.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="574" facs="tcp:183653:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <hi>A PROPER NEW BALLAD,</hi> Being the Regrate of a true Lover, for his Miſtriſs Unkindneſſe.</head>
+            <opener>To a new Tune, <hi>I'le ever love the more.</hi>
+            </opener>
+            <lg>
+               <l>I WIſh I were thoſe <unclear>Groves</unclear>, dear heart.</l>
+               <l>which could thy hands inſhrine;</l>
+               <l>Then ſhould no ſorrow grief nor ſmart,</l>
+               <l>moleſt this heart of mine:</l>
+               <l>But ſince the Fates doth this deny,</l>
+               <l>which <unclear>leaves</unclear> me to deplore,</l>
+               <l>My dribling eyes ſhall never dry,</l>
+               <l>until thou love me more.</l>
+            </lg>
+            <lg>
+               <l>But O that I might ſhrouded be</l>
+               <l>within <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> armis or thine,</l>
+               <l>And that my ſoul might ſay of thee,</l>
+               <l>that thou were freely mine:</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I would,</l>
+               <l>then doubtleſſe ſtill ad<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</l>
+               <l>And ſo in ſpight of Fate I ſhould,</l>
+               <l>eſſay to love thee more.</l>
+            </lg>
+            <lg>
+               <l>I ſhall defy that mortal Wight,</l>
+               <l>enjoy thee w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e will,</l>
+               <l>Then I to ſoar an h<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er flight</l>
+               <l>in love, or mount me till:</l>
+               <l>But ſince to one I muſt reſigne,</l>
+               <l>thee quite and give thee o're,</l>
+               <l>I'le love him, for that face of thine,</l>
+               <l>which made me love thee more,</l>
+            </lg>
+            <lg>
+               <l>Nay ſure ſame ſacred Angel haunts,</l>
+               <l>within that heart of thine,</l>
+               <l>Whoſe ſecret power any ſoul enchants,</l>
+               <l>which from thy eyes do ſhine:</l>
+               <l>But O that I could thee inflame,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him implore,</l>
+               <l>That ſo by reaſon of the ſame,</l>
+               <l>thou yet might love me more.</l>
+            </lg>
+            <lg>
+               <l>But happie is thy ſervent ſure,</l>
+               <l>that ſure a love enjoies,</l>
+               <l>Whoſe ſmiles does all diſaſters cure,</l>
+               <l>whoſe frowns breeds all annoies:</l>
+               <l>As Phebus breaking through the cloud,</l>
+               <l>gives heat and light in ſtore,</l>
+               <l>So when thou doth thine eyes unſhrude,</l>
+               <l>they make me love thee more.</l>
+            </lg>
+            <lg>
+               <l>I wiſh were a Hauk to ſour</l>
+               <l>within the skie of love,</l>
+               <l>And that thou metamorphoſ'd were</l>
+               <l>into a turtle Dove:</l>
+               <l>There would I catch thee with delight,</l>
+               <l>with pleaſure plum ther o're,</l>
+               <l>And <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſhould n<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eath our flight,</l>
+               <l>attempt to love thee more.</l>
+            </lg>
+            <lg>
+               <l>Thy face is as a heaven which holds</l>
+               <l>two ſhining ſuns of love,</l>
+               <l>The which thine eye-lids clouds infold,</l>
+               <l>in ivorie Orbs they move:</l>
+               <l>Their abſence makes me like to die,</l>
+               <l>their <unclear>preſence</unclear> burns me ſore,</l>
+               <l>So ſtill in theſe extreams I lie,</l>
+               <l>and yet muſt love thee more.</l>
+            </lg>
+            <lg>
+               <l>To longe betwixt theſe ivorie hills,</l>
+               <l>which in thy boſom dwells,</l>
+               <l>From whence the ſugred nectar trils</l>
+               <l>in ſweetneſs that excels:</l>
+               <l>There would I ſurfeit with delight,</l>
+               <l>my ſelf, and ne're give o're,</l>
+               <l>Till love ſhould ſo our ſauls unite,</l>
+               <l>as ay to love thee more.</l>
+            </lg>
+            <lg>
+               <l>I like the Salamander am,</l>
+               <l>that in the fire remains,</l>
+               <l>And not conſumed with the flame,</l>
+               <l>I live in pleaſant pains:</l>
+               <l>O that theſe bodies were to act,</l>
+               <l>as free as minds to ſoare,</l>
+               <l>Then ſurelie I at length would make</l>
+               <l>my Laſſe to love me more.</l>
+            </lg>
+            <lg>
+               <l>Since of the days deſires <unclear>our</unclear> dreams,</l>
+               <l>the true ideas are,</l>
+               <l>I wiſh that of mine eyes the beams</l>
+               <l>in ſleep incloſed were:</l>
+               <l>That ſlumbring I might thee poſſeſs,</l>
+               <l>whom daylie I adore,</l>
+               <l>For waking I ſcare ſcarce tranſgreſs,</l>
+               <l>and yet muſt love thee more.</l>
+            </lg>
+            <lg>
+               <l>But yet if thou would condeſcend</l>
+               <l>unto my dear requeſt.</l>
+               <l>And ſuffer me my health to ſpend,</l>
+               <l>upon thy candid breaſt;</l>
+               <l>Then ſurelie I<g ref="char:punc">▪</g> or ever let,</l>
+               <l>imperiouſlie would ſoare,</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s praiſing thee at higheſt rate,</l>
+               <l>and ſo would love thee more.</l>
+            </lg>
+            <lg>
+               <l>Some comfort unto thoſe belong,</l>
+               <l>who common lovers be,</l>
+               <l>Since they upon ſurmiſe of wrong,</l>
+               <l>can ſet their fancie free:</l>
+               <l>But ſhould I die by thy diſdain,</l>
+               <l>which others would abhore,</l>
+               <l>My pure affection ſhall unſtain'd,</l>
+               <l>aſpire to love thee more.</l>
+            </lg>
+            <lg>
+               <l>Then let not black ingratitude,</l>
+               <l>ſo dear a Saint diſgrace,</l>
+               <l>For it would taint the fineſt blood,</l>
+               <l>and ſtain the faireſt face:</l>
+               <l>Since thou mayeſt love, and yet be chaſt,</l>
+               <l>and ſtill behind have ſtore,</l>
+               <l>Then ſlight not him, who doth atteſt</l>
+               <l>the gods, he'l love thee more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="ballad">
+            <head>DIAPHANTAS Words to CARIDORA upon a Diſaſter.</head>
+            <lg>
+               <l>THe ſwetteſt ſaint incenc'd may be.</l>
+               <l>and for a moment mov'd,</l>
+               <l>To wrath by ſome diſaſter hie,</l>
+               <l>againſt her beſt belov'd:</l>
+               <l>But let it be, I were thy foe;</l>
+               <l>as firſt I'le loſe this breath,</l>
+               <l>Thou ſhouldſt not ſuffer down to go,</l>
+               <l>the Sun upon thy wrath.</l>
+            </lg>
+            <lg>
+               <l>I'le only curſe the ſulten Star,</l>
+               <l>reveal'd th'unhappie hour,</l>
+               <l>Which did me from thy preſence bar,</l>
+               <l>by his malignant power.</l>
+               <l>That Planet I ſhall ſtill allow,</l>
+               <l>while as I here remain,</l>
+               <l>
+                  <unclear>Whoſe</unclear> bleſs'd  aſpect ſhall bring me to,</l>
+               <l>my firſt <unclear>eſtate</unclear> again.</l>
+            </lg>
+            <lg>
+               <l>But yet theſe ſtrains which I to thee,</l>
+               <l>in favour did impart,</l>
+               <l>Thou ſlighted them, which threw on me</l>
+               <l>a deadlie wounding dart:</l>
+               <l>And yet I ſhall be loath to grieve</l>
+               <l>thee in the leaſt degree,</l>
+               <l>For thou ſhalt Charidora l<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve,</l>
+               <l>I Diaphantas <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>In holie writs heavens pardons ſuch,</l>
+               <l>as true as infants be,</l>
+               <l>But I could wiſh to weep as much</l>
+               <l>for ſins, I mourn for thee:</l>
+               <l>Reſemble then theſe heavenlie powers,</l>
+               <l>and grant him thy good will,</l>
+               <l>Who wiſhes all to you and yours.</l>
+               <l>that heaven can bring you till.</l>
+            </lg>
+            <lg>
+               <l>How like am I unto an night?</l>
+               <l>that dwells beneath the Pole,</l>
+               <l>Who entertains a ſix months night</l>
+               <l>before their ſun doth role:</l>
+               <l>Since in thy abſence night doth lie,</l>
+               <l>thy preſence ſhineth clear,</l>
+               <l>Lend but the twilight of thine eye,</l>
+               <l>to make my day appear.</l>
+            </lg>
+            <lg>
+               <l>So ſhall my leaden ſpirits riſe,</l>
+               <l>from out this bed of care,</l>
+               <l>To welcome thee into our skies,</l>
+               <l>which now in darkneſs are:</l>
+               <l>But if my ſuit thou ſhalt denie,</l>
+               <l>and render frowns for love,</l>
+               <l>Then ſhall that ſtain upon thee lie,</l>
+               <l>while I ſhall conſtant prove.</l>
+            </lg>
+            <lg>
+               <l>The ſhip that cuts the aiſure tide,</l>
+               <l>and from her courſe is driven</l>
+               <l>By tempeſt, the magnettick guide,</l>
+               <l>yet brings her to the haven;</l>
+               <l>So we in midſt of Natures main<g ref="char:punc">▪</g>
+               </l>
+               <l>when paſſions ſtorms do blow,</l>
+               <l>Are driven averſe, yet back again<g ref="char:punc">▪</g>
+               </l>
+               <l>by love are led alſo.</l>
+            </lg>
+            <lg>
+               <l>Since grace and natu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth agree,</l>
+               <l>things ſtriving to reſtore,</l>
+               <l>Shall ſuch a ſtain be found in thee?</l>
+               <l>the ſaint whom I adore,</l>
+               <l>As to denie for to be led</l>
+               <l>by grace, and ſtay thine ears,</l>
+               <l>O do not, leſt for thee I ſhed</l>
+               <l>my ſanguine drops in tears,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
